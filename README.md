@@ -51,16 +51,18 @@ Additionally, it also shows **top-rated trending games**, making it a hybrid rec
 ## 📂 Project Structure
 
 ```bash
-game-recommender/
+Game-Recommendation-System/
 │── data/
-│    └── games.csv
+│    └── steam_games.csv
 │
 │── assets/
 │    └── game-view.png
 │
+│── notebooks/
+│    └── eda.py
+│
 │── src/
-│    ├── preprocess.py
-│    ├── model.py
+│    └── recommender.py
 │
 │── app.py
 │── requirements.txt

@@ -1,5 +1,3 @@
-# Game-Recommendation-System
-
 # 🎮 Game Recommendation System
 
 🚀 A Machine Learning-based Game Recommendation System that suggests similar games using **content-based filtering**.
